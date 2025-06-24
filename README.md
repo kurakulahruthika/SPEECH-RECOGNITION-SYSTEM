@@ -129,7 +129,10 @@ This Speech Recognition System gave me insight into how humans and machines can 
 
 In the future, I plan to integrate this system with NLP models to create a voice-controlled chatbot or extend it into a voice command interface for IoT devices.
 
----
+### OUTPUT
+
+![image](https://github.com/user-attachments/assets/2d3e4e9f-2b40-4b50-be4e-0391bf4500ef)
+
 
 
 
