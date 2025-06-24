@@ -16,9 +16,7 @@
 
 ## DESCRIPTION ABOUT MY TASK
 
-Certainly! Here's a *500+ word detailed project description* for your *Speech Recognition System, written in a personalized and technical style — perfect for a GitHub repository. It clearly explains **how you implemented it*, the tools used, key steps, challenges, and what you learned.
 
----
 
 ##   Speech Recognition System – Project Description
 
