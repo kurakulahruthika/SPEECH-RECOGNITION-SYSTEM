@@ -1,6 +1,6 @@
 # SPEECH-RECOGNITION-SYSTEM
 
-*company*:codtech it solutions
+*COMPANY*:codtech it solutions
 
 *NAME:KURAKULA HRUTHIKA*
 
